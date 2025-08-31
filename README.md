@@ -24,6 +24,9 @@ Built with **Pygame**, packaged into a standalone **.exe** using **PyInstaller**
 
 ---
 
+## ▶️ Download
+Grab the latest Windows build from the [Releases page](https://github.com/roryMansell/life-game/releases).
+
 ## 🛠️ Run Locally
 
 Clone and install:
